@@ -1,0 +1,22 @@
+body, html {
+  background-color: #0f0f0f;
+  color: #0f0f0f
+}
+
+a, a:hover, a:active, a:visited{
+  color: #1dafec;
+}
+
+/* Background pattern by Paul Phönixweiß from transparenttextures.com */
+.card {
+  background-color: white;
+  background-image: url(../images/egg-shell.png);
+  background-repeat: repeat;
+  background-size: 150px;
+}
+
+.jose-picture {
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
