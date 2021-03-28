@@ -4,18 +4,14 @@ body, html {
   font-family: 'Baloo Tammudu 2';
 }
 
-a, a:hover, a:active, a:visited{
+a, a:hover, a:active, a:visited {
   color: #1dafec;
-}
-
-#greeting {
-  position: relative;
 }
 
 #wave-emoji {
   font-size: 50px;
-  position: absolute;
-  left: -50px;
+  margin-left: -50px;
+  margin-right: 16px;
 }
 
 .jose-picture {
